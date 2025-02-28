@@ -3,16 +3,16 @@
 This repository contains the work for the CS-255 System Analysis and Design course, section 16514-M01, during the Winter 2025 term (January - March).
 
 ## Course Description
+Students will explore the principles, methods, and techniques used in systems development so that they can create system models using appropriate industry tools. As a part of creating system models, students will also learn to effectively communicate technical concepts and design decisions to various audiences in a professional manner.
 
-(Optional: Briefly describe the course content.  For example: This course covers the fundamental principles of system analysis and design, including requirements gathering, process modeling, data modeling, and system implementation.)
 
 ## Instructor
 
-(Add instructor's name here)
+Denise Washington  d.washington2@snhu.edu
 
 ## Contact
 
-(Add your contact information or preferred method of communication for collaboration if applicable)
+carolyn.klein@shnu.edu
 
 ## Repository Structure
 ## Assignments
@@ -35,18 +35,6 @@ The `resources/` directory may contain helpful templates, examples, or other sup
 2. Navigate to the specific assignment or project directory.
 3. Follow the instructions in the corresponding `README.md` file.
 
-## Collaboration
-
-(Optional: Include any collaboration guidelines or preferences.)
-
-## License
-
-(Optional: Specify the license under which the code is shared.  For example:  This project is licensed under the MIT License - see the LICENSE file for details.)
-
-
-## Acknowledgements
-
-(Optional:  Acknowledge any external resources or libraries used.)
 
 ## DriverPass Project
 
