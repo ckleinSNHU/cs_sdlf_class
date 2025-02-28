@@ -47,3 +47,16 @@ The `resources/` directory may contain helpful templates, examples, or other sup
 ## Acknowledgements
 
 (Optional:  Acknowledge any external resources or libraries used.)
+
+## DriverPass Project
+
+This project involved designing a system called DriverPass for a hypothetical driving school. The system aimed to streamline the process of scheduling driving tests, managing student information, and tracking test results.
+
+**Strengths:** I believe I was particularly effective in creating clear and comprehensive UML diagrams, especially the use case diagram, which effectively captured the interactions between different actors and the system.
+
+**Areas for Revision:** If I were to revise one aspect, I would focus on providing more detailed descriptions of the system's database design in the system design document. This would enhance the technical clarity of the document.
+
+**User Needs:** I incorporated user needs by not only focusing on the functional requirements but also on the overall user experience. For example, I designed the interface to be intuitive and easy to navigate, ensuring that users could easily find the information they needed. I also considered the needs of users with disabilities by adhering to accessibility guidelines. To gather user feedback, I conducted hypothetical usability testing with friends and family, which revealed the need for a more prominent search function. This feedback led me to redesign the interface to make the search bar more accessible.
+
+**Design Approach:** I utilized a user-centered design approach, focusing on understanding the needs and pain points of the users before creating the system design. In the future, I would also explore incorporating agile methodologies to allow for more flexibility and iterative development.
+
